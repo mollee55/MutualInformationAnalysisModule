@@ -25,8 +25,8 @@ class MutualInformationAnalysisModule:
     # the latter method is running.
     ######################################### noqa
     VERSION = "1.0.0"
-    GIT_URL = "https://github.com/zahmeeth/MutualInformationAnalysisModule.git"
-    GIT_COMMIT_HASH = "2c5e9033a8a243f2948cdefaa38a63fa90f93a8e"
+    GIT_URL = "https://github.com/mollee55/MutualInformationAnalysisModule.git"
+    GIT_COMMIT_HASH ="f876afe9260fd8bef5bee3e458a5796809b110bf"
 
     #BEGIN_CLASS_HEADER
     #END_CLASS_HEADER
